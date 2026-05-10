@@ -59,7 +59,7 @@ Open http://localhost:8080
 ## What you still need to do
 
 1. **Add `resume.pdf`** — drop your final CV PDF here as `resume.pdf` so the "Download CV" button works
-2. **Update LinkedIn URL** — once you customize your slug (e.g., `khaled-tarek-eng`), grep for `khaled-tarek-3596401b1` and replace
+2. **Update LinkedIn URL** — once you customize your slug (e.g., `khaled-tarek-eng`), grep for `khaled-tarek-eng` and replace
 3. **Buy `khaledtarek.dev`** — Cloudflare Registrar (cheapest) or Namecheap, ~$12/year
 4. **Add screenshots later** — the project cards are text-only; once you have screenshots, replace the placeholders
 
