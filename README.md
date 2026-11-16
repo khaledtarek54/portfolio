@@ -1,10 +1,10 @@
-# khaledtarek.dev — portfolio site
+# khaledtarek.vercel.app — portfolio site
 
 Single-file static portfolio. No build step. Drop it on any static host.
 
 ## Files
 
-- `index.html` — the entire site (Tailwind via CDN, fonts via Google Fonts)
+- `index.html` — the entire site (plain HTML + CSS, light/dark theme, fonts via Google Fonts)
 - `resume.pdf` — your CV PDF (you need to add this — drop your final CV here as `resume.pdf`)
 - `vercel.json` — Vercel config for clean URLs (optional)
 - `CNAME` — for GitHub Pages custom domain (only if you go that route)
